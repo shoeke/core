@@ -5,7 +5,6 @@
   left: 250px;
 }
 
-
 @keyframes slideEye {
   0%, 100% {
     transform: translate(0, 0);
@@ -135,4 +134,7 @@
   100% {
     transform: translate( 0, 160px);
   }
+}
+#hair {
+  color: blue;
 }
